@@ -2,7 +2,7 @@
 --  see http://haskell.org/cabal/users-guide/
 
 name:                keyed
-version:             0.1.0.0
+version:             0.2.0.0
 synopsis:            Generic indexing for many data structures
 description:         This library provides generic indexing for a number of data structures, so that we can overload (!) in the same way we overload length with Foldable or (f)map with Functor.  
 license:             BSD3
