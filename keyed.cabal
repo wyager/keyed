@@ -20,7 +20,7 @@ library
                        Data.MKeyed
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.8 && <4.9,
+  build-depends:       base >=4.7 && <4.9,
                        vector >= 0.8 && <= 0.11.0.0,
                        containers >= 0.5 && <= 0.5.6.3
   hs-source-dirs:      src
